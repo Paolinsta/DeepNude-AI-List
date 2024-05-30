@@ -1,6 +1,5 @@
-# DeepNude AI List
-* [NSFW AI Tools List](https://nsfw.tools/collections/all)
-* [Dreampaint.net](https://dreampaint.net)
+# DeepNude AI Tools
+* <b>[Dreampaint.net(recommended)](https://dreampaint.net)</b>
 * [NoDress.io](https://nodress.io)
 * [Undress Her](https://undressher.app)
 * [NudifyAI](https://nudify-ai.online/)
