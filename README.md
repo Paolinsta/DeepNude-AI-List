@@ -1,5 +1,5 @@
 # DeepNude AI Tools
-* <b>[Dreampaint.net - Nudify, Bukkake, Futanari, Tattoo and many more NSFW effects with AI (recommended)](https://www.dreampaint.net/?utm_source=github&utm_medium=paolinsta&utm_campaign=tools-list)</b>
+* <b>[Dreampaint.net - Nudify, Bukkake, Futanari, Tattoo and many more NSFW effects with AI (recommended)](https://www.dreampaint.net/?utm_source=github&utm_medium=paolinsta&utm_campaign=AI-list)</b>
 * [NoDress.io](https://nodress.io)
 * [Undress Her](https://undressher.app)
 * [NudifyAI](https://nudify-ai.online/)
